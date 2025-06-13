@@ -27,7 +27,7 @@ The Master MCU handles password authentication, user interaction via keypad and 
 
 
 
-## 🖥️ Hardware
+## Hardware
 - 2 × Atmega32 Microcontrollers
 - LCD 16x2
 - Keypad (4×4)
