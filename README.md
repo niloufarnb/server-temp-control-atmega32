@@ -7,8 +7,6 @@ The Master MCU handles password authentication, user interaction via keypad and 
 
 
 ## 🔧 Simulation Screenshot
-
-### Pipelined ARM:
 <p align="center">
   <img src="assets/proteus_result.jpg" width="75%">
 </p>
